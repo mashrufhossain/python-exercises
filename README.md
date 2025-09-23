@@ -67,26 +67,11 @@ Exercises from the [Python for Everybody](https://www.py4e.com/) course, coverin
    venv\Scripts\activate      # on Windows
    ```
 
-3. **Install requirements (for pandas tutorials)**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run any script**
+3. **Run any script**
 
    ```bash
    python "Pandas Tutorials/tutorial4.py"
    ```
-
----
-
-### 📝 Notes
-
-* Some scripts (especially Pandas tutorials) require CSV datasets located in the `data/` folder.
-* Python version 3.8+ is recommended.
-* Virtual environment (`venv/`) is included in `.gitignore` so it won’t clutter the repo.
-* SQLite files (`.sqlite`) are provided for database exercises.
 
 ---
 
